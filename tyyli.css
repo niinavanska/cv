@@ -1,3 +1,8 @@
 div {
-    border: 2px
+    border: 6px
 }
+
+.header
+    h1 {
+        text-align: center
+    }
