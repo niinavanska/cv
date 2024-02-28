@@ -27,11 +27,11 @@
   /* Style the active/current link*/
   .header a.active {
     background-color: #988780;
-    color: white;
+    color: white; 
   }
   
   /* Float the link section to the right */
-  .header {
+  .header a {
     float: right;
   }
   
